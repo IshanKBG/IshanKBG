@@ -3,6 +3,6 @@ I am Ishan, a  15 Front-End Developer based on India whose favourite programming
 
 
 
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishankbg&hide=contribs,prs)
+![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishankbg&count_private=true&show_icons=true&include_all_commits=true&hide_contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankbg)
 
