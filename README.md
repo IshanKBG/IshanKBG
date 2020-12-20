@@ -6,5 +6,5 @@
 
 
 
-[Ishan's[Ishan's Github Stats](https://github-readme-stats.vercel.app/api?username=ishankbg&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide=prs)
-[Ishan's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankbg&layout=compact)
+![Ishan's[Ishan's Github Stats](https://github-readme-stats.vercel.app/api?username=ishankbg&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide=prs)
+![Ishan's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankbg&layout=compact)
