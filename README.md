@@ -4,5 +4,5 @@ I am Ishan, a  15 Front-End Developer based on India whose favourite programming
 
 
 ![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishankbg&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankbg)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishankbg)
 
