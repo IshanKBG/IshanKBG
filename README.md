@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kbg_digital" target="blank"><img src="https://img.shields.io/twitter/follow/kbg_digital?logo=twitter&style=for-the-badge" alt="kbg_digital" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Engineering**
+- 🌱 I’m currently learning **Full Stack Engineering and Android Development**
 
 - 🤝 I’m looking for help with [Lunae Studios's Website](https://github.com/IshanKBG/Lunae-Studios-Website)
 
