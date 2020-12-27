@@ -1,13 +1,15 @@
 
 
 
-<h3 align="center">I am Ishan, a 15 years old Indian based Front-End Engineer whose favourite language is JavaScript. I also love creating mods/add-ons for Minecraft Bedrock Edition.</h3>
+<h3 align="center">I am Ishan, a 15 years old Indian based self-taught Front-End Engineer whose favourite language is JavaScript. I also love creating mods/add-ons for Minecraft Bedrock Edition.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishankbg&label=Profile%20views&color=0e75b6&style=flat" alt="ishankbg" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kbg_digital" target="blank"><img src="https://img.shields.io/twitter/follow/kbg_digital?logo=twitter&style=for-the-badge" alt="kbg_digital" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Engineering and Android Development**
+
+- 👎I hate WhiteHatJr
 
 - 🤝 I’m looking for help with [Lunae Studios's Website](https://github.com/IshanKBG/Lunae-Studios-Website)
 
