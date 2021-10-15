@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey There I am Ishan[KBG]</h1>
+<h1 align="center">Hey There I am Ishan Jaiswal</h1>
 <h3 align="center">A notorious teen programmer who just started programming for fun and timepass. My dream is to become a software engineer and a data scientist. My first programming language was JavaScript and favourite programming language is Python. I also love making add-ons for Minecraft Bedrock Editon.</h3>
 
 <p align="left"> <a href="https://twitter.com/kbg_digital" target="blank"><img src="https://img.shields.io/twitter/follow/kbg_digital?logo=twitter&style=for-the-badge" alt="kbg_digital" /></a> </p>
