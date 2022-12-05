@@ -1,11 +1,1 @@
-# fresh project
-
-### Usage
-
-Start the project:
-
-```
-deno task start
-```
-
-This will watch the project directory and restart as necessary.
+Hello I am Ishan Jaiswal and I love creating softwares.
