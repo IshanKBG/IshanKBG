@@ -6,6 +6,6 @@ I have been creating softwares since 2019. I have tremendous experience in Types
 I also have a blog [here](https://ishankbg.dev) where I write about my experiences and learnings.
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=IshanKBG&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKBG&layout=donut-vertical&theme=gruvbox&hide=xslt,roff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKBG&layout=donut-vertical&theme=gruvbox&hide=xslt,roff,astro,mdx,css,svelte)](https://github.com/anuraghazra/github-readme-stats)
 
 
