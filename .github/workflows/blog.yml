@@ -1,4 +1,4 @@
-name: Latest DevDojo blog post workflow
+name: Latest blog post workflow
 on:
   schedule:
     # Runs every hour
