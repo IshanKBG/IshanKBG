@@ -9,4 +9,6 @@ Check my website [here](https://ishankbg.dev/about) for more information.
 - [Setting up my new macOS](https://ishankbg.dev/archive/my-macos-setup/)
 <!-- IshanKBG:END -->
 
-
+# Time Spent
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
