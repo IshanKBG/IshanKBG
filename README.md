@@ -13,11 +13,11 @@ Check my website [here](https://ishankbg.dev/about) for more information.
 <!--START_SECTION:waka-->
 
 ```txt
-conf    57 mins         ███████████▓░░░░░░░░░░░░░   46.36 %
-Rust    23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-TOML    15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-Other   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-MDX     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
+conf    57 mins         ████████████░░░░░░░░░░░░░   48.13 %
+Rust    18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+TOML    15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Other   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+MDX     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
 <!--END_SECTION:waka-->
