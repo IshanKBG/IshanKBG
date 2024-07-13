@@ -13,9 +13,9 @@ Check my website [here](https://ishankbg.dev/about) for more information.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   18 mins         █████████████░░░░░░░░░░░░   51.85 %
-TOML   15 mins         ██████████▒░░░░░░░░░░░░░░   41.78 %
-C++    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Rust   15 mins         ███████████▓░░░░░░░░░░░░░   47.03 %
+TOML   15 mins         ███████████▒░░░░░░░░░░░░░   45.97 %
+C++    2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
 ```
 
 <!--END_SECTION:waka-->
