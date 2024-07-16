@@ -13,8 +13,8 @@ Check my website [here](https://ishankbg.dev/about) for more information.
 <!--START_SECTION:waka-->
 
 ```txt
-C++    2 mins          ██████████████░░░░░░░░░░░   55.82 %
-Rust   1 min           ███████████░░░░░░░░░░░░░░   44.18 %
+C++    2 mins          ███████████████████████▒░   93.92 %
+Rust   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
 ```
 
 <!--END_SECTION:waka-->
