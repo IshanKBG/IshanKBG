@@ -13,7 +13,7 @@ Check my website [here](https://ishankbg.dev/about) for more information.
 <!--START_SECTION:waka-->
 
 ```txt
-C++   1 min           █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
